@@ -1,0 +1,21 @@
+[master 2a39c95] -
+ 19 files changed, 417 insertions(+)
+ create mode 100644 .gitignore
+ create mode 100644 gulpfile.js
+ create mode 100644 package.json
+ create mode 100644 src/assets/js/index.js
+ create mode 100644 src/assets/js/scripts.js
+ create mode 100644 src/assets/sass/_grid.scss
+ create mode 100644 src/assets/sass/mixin/_block.scss
+ create mode 100644 src/assets/sass/mixin/_grid.scss
+ create mode 100644 src/assets/sass/mixin/_icon.scss
+ create mode 100644 src/assets/sass/mixin/_reset.scss
+ create mode 100644 src/assets/sass/mixin/_text.scss
+ create mode 100644 src/assets/sass/styles.scss
+ create mode 100644 src/assets/sass/variables.scss
+ create mode 100644 src/assets/sprites/inline-svg.html
+ create mode 100644 src/assets/sprites/sprites.scss
+ create mode 100644 src/index.html
+ create mode 100644 src/template/footer/footer.html
+ create mode 100644 src/template/header/header.html
+ create mode 100644 src/template/main/main.html
